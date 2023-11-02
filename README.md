@@ -1,0 +1,1 @@
+A matching dot stimuli game created using psychoPy. The dots are randomly generated with whatever range you choose and placed evenly on cards. Returns an excel that shows how many dots were shown on each card, whether the matching number was chosen, and what the total tally of correct values was. 
